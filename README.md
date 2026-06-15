@@ -51,12 +51,7 @@ A React-based stock market analysis application that helps users track stocks, a
 
 ## 📷 Screenshots
 
-Add screenshots of:
-
-1. Dashboard
-2. Stock Search Result
-3. Portfolio Section
-4. News Section
+<img width="1062" height="821" alt="image" src="https://github.com/user-attachments/assets/6fc7ca6a-3f94-437a-91a6-e045dfe730a2" />
 
 ## ⚙️ Installation
 
