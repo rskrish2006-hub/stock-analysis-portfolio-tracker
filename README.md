@@ -1,16 +1,86 @@
-# React + Vite
+# 📈 Stock Analysis & Portfolio Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based stock market analysis application that helps users track stocks, analyze market trends, manage portfolios, and monitor investment performance.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Live Stock Search
+* Real-Time Stock Price Tracking
+* Day High / Day Low Analysis
+* Basic Buy / Sell Signal
+* Latest Stock News
+* News Sentiment Analysis
+* Portfolio Management
+* Profit & Loss Calculation
+* Portfolio Risk Meter
+* Local Storage Persistence
+* Responsive Dashboard UI
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* Vite
+* JavaScript
+* Alpha Vantage API
+* HTML
+* CSS
+* Local Storage
 
-## Expanding the ESLint configuration
+## 📊 Functionalities
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Stock Analysis
+
+* Search any stock symbol
+* View current stock price
+* View day high and day low values
+* Analyze stock movement
+
+### AI-Based Insights
+
+* Basic recommendation engine
+* News sentiment analysis
+* Portfolio risk evaluation
+
+### Portfolio Tracking
+
+* Add stocks to portfolio
+* Remove stocks from portfolio
+* Track investment value
+* Calculate profit and loss
+* Save portfolio locally
+
+## 📷 Screenshots
+
+Add screenshots of:
+
+1. Dashboard
+2. Stock Search Result
+3. Portfolio Section
+4. News Section
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/rskrish2006-hub/stock-analysis-portfolio-tracker.git
+
+cd stock-analysis-portfolio-tracker
+
+npm install
+
+npm run dev
+```
+
+## 🎯 Future Improvements
+
+* Portfolio Allocation Charts
+* Historical Stock Charts
+* Watchlist Feature
+* Advanced Technical Indicators
+* User Authentication
+* Cloud Database Integration
+
+## 👨‍💻 Author
+
+Krishna Bhargava
+
+GitHub: https://github.com/rskrish2006-hub
